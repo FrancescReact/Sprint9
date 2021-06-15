@@ -10,6 +10,7 @@ La App, bàsicament dona informació en AR, de productes frescos de peixateria. 
 La info s'aconsegueix, escaneigant un codi QR, que està al costat de cada fitxa de producte.
 
 La App permeterà fer accions de màrketing, com promocions, sortegos, descomptes, així com la tracabilitat de clients del establiment.
+___________________________________________________________________________________________________________________________________________
 
 Tecnical /Tecnological Description:
 
